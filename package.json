@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Haamseongho/AAT-AppAutoTester/issues"
   },
-  "homepage": "https://github.com/Haamseongho/AAT-AppAutoTester#readme"
+  "homepage": "https://github.com/Haamseongho/AAT-AppAutoTester#readme",
+  "devDependencies": {
+    "appium": "^3.1.2"
+  }
 }
