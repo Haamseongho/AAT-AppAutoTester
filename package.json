@@ -1,0 +1,19 @@
+{
+  "name": "aat-appautotester",
+  "version": "1.0.0",
+  "description": "aat service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haamseongho/AAT-AppAutoTester.git"
+  },
+  "author": "haams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haamseongho/AAT-AppAutoTester/issues"
+  },
+  "homepage": "https://github.com/Haamseongho/AAT-AppAutoTester#readme"
+}
