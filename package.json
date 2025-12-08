@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Haamseongho/AAT-AppAutoTester#readme",
   "devDependencies": {
-    "appium": "^3.1.2"
+    "appium": "file:appium-3.1.2.tgz"
   }
 }
