@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Haamseongho/AAT-AppAutoTester#readme",
   "devDependencies": {
-    "appium": "^3.1.2"
+    "appium": "file:appium-3.1.2.tgz",
+    "appium-uiautomator2-driver": "file:appium-uiautomator2-driver-6.6.2.tgz"
   }
 }
